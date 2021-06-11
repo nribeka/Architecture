@@ -1,4 +1,6 @@
-## Resources
+# Architecture
+
+For all things related to the Architecture team, including our https://github.com/GovStackWorkingGroup/Architecture/projects/1[Issue tracker] and https://meet.govstack.global/Architecture[Meeting room]
 
 https://docs.google.com/document/d/12b696fHlOAAHygFF5-XxUJkFyFjMIV99VDKZTXnnAkg/edit#[Architecture Blueprint and non-functional requirements] for all building blocks
 
