@@ -3,9 +3,12 @@
 Max Carlson <mxcrlsn@gmail.com>
 v1.0, June 2021: Initial release.
 
-For all things related to the Architecture team, including our https://github.com/GovStackWorkingGroup/Architecture/projects/1[project tracker] and https://meet.govstack.global/Architecture[meeting room]
 
-https://docs.google.com/document/d/12b696fHlOAAHygFF5-XxUJkFyFjMIV99VDKZTXnnAkg/edit#[Architecture Blueprint and non-functional requirements] for all building blocks
+For all things related to the Architecture team, including our https://github.com/GovStackWorkingGroup/Architecture/projects/1[project tracker] and https://meet.govstack.global/Architecture[meeting room] 
+
+https://drive.google.com/drive/u/0/folders/1ty28dtEehRb5IIz59oVd3tuszp-ywgzr[Architecture team drive] with meeting minutes, references and other documents
+
+https://docs.google.com/document/d/12b696fHlOAAHygFF5-XxUJkFyFjMIV99VDKZTXnnAkg/edit#[Architecture Blueprint and non-functional requirements] for capturing requirements across to all building blocks
 
 https://docs.google.com/document/d/1ebDJ0nkMMwwWX6FHxGM6MLWL63haF4eYJO64fEFnFOc/edit#[Working group cookbook] to onboard new groups and group members
 
@@ -13,10 +16,8 @@ https://docs.google.com/document/d/1l-AFTtwBY3RpnlcCiUi3ifBVUNMI1AiM/edit?pli=1[
 
 https://docs.google.com/document/d/1DRjpuyINjf6YVBRrEh9Q6VdB0zVzq1aqGQOukpktWZ8/edit#[Logical process blueprint] for capturing use cases and flow diagrams
 
-https://drive.google.com/drive/u/0/folders/1ty28dtEehRb5IIz59oVd3tuszp-ywgzr[Architecture team drive] with meeting minutes, references and other documents
-
 https://drive.google.com/drive/folders/1_b48azcT853nXXJwSp94h_JodqnwukLD[Govstack root drive] containing folders for other team's project documentation
 
-https://github.com/GovStackWorkingGroup/BuildingBlockAPI/projects/1[Cross-workgroup sprint tracker] for tracking progress on the use case sprints
+https://github.com/GovStackWorkingGroup/BuildingBlockAPI/projects/1[Cross-workgroup sprint tracker] for tracking progress of use case sprint definition
 
 https://github.com/orgs/GovStackWorkingGroup/projects/2[Cross-workgroup issue tracker] for tracking issues to be resolved across workgroups
