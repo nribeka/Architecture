@@ -22,3 +22,5 @@ https://drive.google.com/drive/folders/1_b48azcT853nXXJwSp94h_JodqnwukLD[Govstac
 https://github.com/GovStackWorkingGroup/BuildingBlockAPI/projects/1[Cross-workgroup sprint tracker] for tracking progress of use case definition sprints
 
 https://github.com/orgs/GovStackWorkingGroup/projects/2[Cross-workgroup issue tracker] for tracking issues to be resolved across workgroups
+
+Written in https://docs.asciidoctor.org/asciidoc/latest/asciidoc-vs-markdown/[Asciidoc]
