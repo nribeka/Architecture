@@ -18,6 +18,6 @@ https://docs.google.com/document/d/1DRjpuyINjf6YVBRrEh9Q6VdB0zVzq1aqGQOukpktWZ8/
 
 https://drive.google.com/drive/folders/1_b48azcT853nXXJwSp94h_JodqnwukLD[Govstack root drive] containing folders for other team's project documentation
 
-https://github.com/GovStackWorkingGroup/BuildingBlockAPI/projects/1[Cross-workgroup sprint tracker] for tracking progress of use case sprint definition
+https://github.com/GovStackWorkingGroup/BuildingBlockAPI/projects/1[Cross-workgroup sprint tracker] for tracking progress of use case definition sprints
 
 https://github.com/orgs/GovStackWorkingGroup/projects/2[Cross-workgroup issue tracker] for tracking issues to be resolved across workgroups
