@@ -1,4 +1,7 @@
 # Architecture
+====================================
+Max Carlson <mxcrlsn@gmail.com>
+v1.0, June 2021: Initial release.
 
 For all things related to the Architecture team, including our https://github.com/GovStackWorkingGroup/Architecture/projects/1[project tracker] and https://meet.govstack.global/Architecture[meeting room]
 
