@@ -1,12 +1,13 @@
 = Architecture
 ====================================
 Max Carlson <mxcrlsn@gmail.com>
-v1.0, June 2021: Initial release.
+v1.0, June 2021: Initial draft
 
 
-For all things related to the Architecture team, including our https://github.com/GovStackWorkingGroup/Architecture/projects/1[project tracker] and https://meet.govstack.global/Architecture[meeting room] 
-
-https://drive.google.com/drive/u/0/folders/1ty28dtEehRb5IIz59oVd3tuszp-ywgzr[Architecture team drive] with meeting minutes, references and other documents
+For all things related to the Architecture team, including our 
+https://github.com/GovStackWorkingGroup/Architecture/projects/1[project tracker],  
+https://meet.govstack.global/Architecture[meeting room] and
+https://drive.google.com/drive/u/0/folders/1ty28dtEehRb5IIz59oVd3tuszp-ywgzr[folder] of meeting minutes, references, use cases and more
 
 https://docs.google.com/document/d/12b696fHlOAAHygFF5-XxUJkFyFjMIV99VDKZTXnnAkg/edit#[Architecture Blueprint and non-functional requirements] for capturing requirements across to all building blocks
 
