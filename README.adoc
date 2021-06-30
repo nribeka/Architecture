@@ -17,7 +17,7 @@ https://docs.google.com/document/d/1l-AFTtwBY3RpnlcCiUi3ifBVUNMI1AiM/edit?pli=1[
 
 https://docs.google.com/document/d/1DRjpuyINjf6YVBRrEh9Q6VdB0zVzq1aqGQOukpktWZ8/edit#[Logical process blueprint] for capturing use cases and flow diagrams
 
-https://docs.google.com/document/d/1ebDJ0nkMMwwWX6FHxGM6MLWL63haF4eYJO64fEFnFOc/edit#[Use case template] for capturing use cases
+https://docs.google.com/document/d/1NL8ixDQ12Lt7pj2bXhfk_jjFEnHUc_ZJ7ul3vDJn1Iw/edit#[Use case template] for capturing use cases
 
 https://drive.google.com/drive/folders/1_b48azcT853nXXJwSp94h_JodqnwukLD[Govstack root drive] containing folders for other team's project documentation
 
