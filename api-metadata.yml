@@ -1,6 +1,6 @@
 api-mappings:
   bb-information-mediator:
-    jira-project: 'BBIM'
+    jira-project: 'BBIM-EDIT'
     label: 'bb-information-mediator'
     value: 'api/govstack_im_service_metadata_api-0.3-swagger.json'
   bb-consent:
